@@ -1,0 +1,3 @@
+PRJ321 -  Java Web Application  - 20 - 10 - 5.5
+JPN113 -  Japanese  - 20 - 10 - 6.6
+Biz - Bizzn - 20 - 10 - 2.5
